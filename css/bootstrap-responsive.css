@@ -8,6 +8,19 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+
+/*en esta sección ubico mis estilos propios*/
+
+.margin_top{
+  margin-top: 20px;
+}
+
+
+
+
+
+/*a partir de aquí son los estilos predefinidos por bootstrap*/
+
 .clearfix {
   *zoom: 1;
 }
@@ -125,7 +138,7 @@
   [class*="span"] {
     float: left;
     min-height: 1px;
-    margin-left: 30px;
+    /*margin-left: 30px;*/
   }
   .container,
   .navbar-static-top .container,
@@ -949,7 +962,7 @@
   }
 }
 
-@media (max-width: 979px) {
+@media (max-width: 970px) {
   body {
     padding-top: 0;
   }
