@@ -222,7 +222,7 @@ textarea {
 }
 
 body {
-  margin: 0;
+  margin: 0 auto;
   font-family: Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
@@ -264,7 +264,7 @@ a:focus {
 }
 
 .row {
-  margin-left: -20px;
+ /* margin-left: -20px;*/
   *zoom: 1;
 }
 
@@ -406,7 +406,7 @@ a:focus {
 
 .row-fluid [class*="span"] {
   display: block;
-  float: left;
+  /*float: left;*/
   width: 100%;
   min-height: 30px;
   margin-left: 2.127659574468085%;
@@ -5973,6 +5973,7 @@ a.badge:focus {
 .carousel {
   position: relative;
   margin-bottom: 20px;
+  margin-top: 20px;
   line-height: 1;
 }
 
