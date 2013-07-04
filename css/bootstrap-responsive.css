@@ -23,6 +23,9 @@
   padding-left: 40px;
 }
 
+.float1{
+  float: right;
+}
 
 /*a partir de aquí son los estilos predefinidos por bootstrap*/
 
